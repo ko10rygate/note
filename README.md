@@ -7,7 +7,8 @@ handle : ko10rygate(ことりーげーと）/ 雨門 言吏（あまかど こ�
   - [@M0nchangate](https://twitter.com/M0nchangate)
 
 
-- どんな人  
+- どんな人
+
 大学生。  
 
 小さい頃からパソコンが好きなのに最近までプログラムというものに触れてこなかった。
