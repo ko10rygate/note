@@ -13,7 +13,7 @@ handle : ko10rygate(ことりーげーと）/ 雨門 言吏（あまかど こ�
 Lightroomのために契約したAdobeCCでチラシ制作やちょっとした動画編集も。  
 
 - hobby(latest)
-  - お絵かき / カメラ / バイク / ゲーム / VR / 自作PC
+  - お絵かき / カメラ / バイク / ゲーム / VR(Windows MR) / 自作PC
 
 - Game
   - FF14
